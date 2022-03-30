@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## Latinoamericanas Olímpicas  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,11 +9,11 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Latinoamericanas Olímpicas
 
-**Autor(es)** ______________
+**Autor(es)** Liz Armas Pedarza
 
-**Resumen** : _________
+**Resumen** : Proyecto de Periodismo de Datos sobre la participación de las mujeres latinoamericanas en los Juegos Olímpicos de verano
 
 **logotipo** :  ________
 
