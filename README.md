@@ -15,7 +15,7 @@ Univesidad de Granada
 
 **Resumen** : Proyecto de Periodismo de Datos sobre la participación de las mujeres latinoamericanas en los Juegos Olímpicos de verano
 
-**logotipo** :  ________
+**logotipo** :  ![Logo sin texto-01](https://user-images.githubusercontent.com/56308067/160888051-84a22dc6-d674-4892-92f2-453e5fe52959.png)
 
 **Slogan** (frase motivadora/inspiradora): ________
 
