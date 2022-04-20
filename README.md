@@ -84,6 +84,8 @@ Además se utilizarán los colores de los aros olímpicos: rojo, amarillo, azul,
 Redes sociales:
 Se creará un perfil en Twitter e Instagram para el proyecto, cuya foto de perfil será el logotipo inicial. Además se utilizarán los hashtags planteados.
 
+![Logo con texto](https://user-images.githubusercontent.com/56308067/164283232-4bf2a00d-dbab-4fb3-ba5e-c3c49b019ad9.png)
+
 Publicidad:
 Para promocionar el proyecto, se utilizaría un video teaser pensado para redes sociales. Además, se presentarán poster y postales que serán publicadas en dichas plataformas, previo lanzamiento del proyecto.  
 
