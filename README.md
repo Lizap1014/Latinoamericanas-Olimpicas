@@ -16,6 +16,11 @@ Univesidad de Granada
 **Resumen** : Proyecto de Periodismo de Datos sobre la participación de las mujeres latinoamericanas en los Juegos Olímpicos de verano
 
 **logotipo** :  ![Logo sin texto-01](https://user-images.githubusercontent.com/56308067/160888051-84a22dc6-d674-4892-92f2-453e5fe52959.png)
+Código de colores:
+Rojo: #FF0606
+Gris oscuro: #444444
+Negro: #000000
+Además se utilizarán los colores de los aros olímpicos: rojo, amarillo, azul, verde y negro.
 
 **Slogan** (frase motivadora/inspiradora): ________
 
