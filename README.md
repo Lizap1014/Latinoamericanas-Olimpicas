@@ -36,10 +36,11 @@ Hilo de Twitter
 Instagram
 
 
-Genially: https://view.genial.ly/62602ef14943b200115ca006/interactive-content-juego-de-mesa-olimpiadas
+Genially: https://view.genial.ly/62603d554943b200115ce279/interactive-content-quiz-juegos-olimpicos
 
+![Ejemplo 1](https://user-images.githubusercontent.com/56308067/164290742-13188d95-69a9-4d8e-a7ea-0ef070430b11.jpg)
+![Imagen del prototipo](https://user-images.githubusercontent.com/56308067/164290746-67b3cd2a-ac26-42b6-8123-f64498b6c2c8.jpg)
 
-![Imagen del prototipo](https://user-images.githubusercontent.com/56308067/164283731-fab800a4-a252-4103-8512-69cfd2ff5df0.jpg)
 
 
 Tableau public
