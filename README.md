@@ -100,6 +100,8 @@ Se creará un perfil en Twitter e Instagram para el proyecto, cuya foto de perfi
 
 **Captura de pantalla de Quiz en Genially**
 ![Imagen del prototipo](https://user-images.githubusercontent.com/56308067/164319180-b231d874-1c51-49e6-b340-e4fe860b13b9.jpg)
+
+
 ![Ejemplo 1](https://user-images.githubusercontent.com/56308067/164319182-f2ab110c-84bf-45b6-abf5-041ba74f3e7c.jpg)
 
 **Captura de pantalla de Flourish**
