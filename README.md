@@ -99,6 +99,8 @@ Se creará un perfil en Twitter e Instagram para el proyecto, cuya foto de perfi
 ![Curiosidad del día](https://user-images.githubusercontent.com/56308067/164319106-90ac4e47-0b58-4765-84a6-0120ea736ff5.png)
 
 **Captura de pantalla de Quiz en Genially**
+
+
 ![Imagen del prototipo](https://user-images.githubusercontent.com/56308067/164319180-b231d874-1c51-49e6-b340-e4fe860b13b9.jpg)
 
 
