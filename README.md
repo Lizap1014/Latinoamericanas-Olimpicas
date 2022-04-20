@@ -80,15 +80,25 @@ En este sentido, las mujeres han enfrentado muchos obstáculos como entrenar en 
 Imagen visual (Portada / Diseño de Interfaz) y herramienta usada: Se ha utilizado Adobe Illustrator para el diseño del logotipo y banner. La tipografía elegida ha sido Roboto. Para el videojuego se ha utilizado y adaptado una plantilla de Genially. En Tableau Public se han diseñado los gráficos que conforman el Storytelling final. 
 Código de colores: 
 
-Rojo: #FF0606 
+Rojo: #FF0606
+
+
 Gris oscuro: #444444 
+
+
 Negro: #000000 
+
+
 Además se utilizarán los colores de los aros olímpicos: rojo, amarillo, azul, verde y negro. 
 
 Redes sociales:
 Se creará un perfil en Twitter e Instagram para el proyecto, cuya foto de perfil será el logotipo inicial. Además se utilizarán los hashtags planteados.
 
-![Logo con texto](https://user-images.githubusercontent.com/56308067/164283232-4bf2a00d-dbab-4fb3-ba5e-c3c49b019ad9.png)
+
+Captura de pantalla de Hilo de Twitter:
+
+![Twitter](https://user-images.githubusercontent.com/56308067/164317514-6f5601d3-7783-4a07-8e1e-69df357ddb0d.jpg)
+
 
 Publicidad:
 Para promocionar el proyecto, se utilizaría un video teaser pensado para redes sociales. Además, se presentarán poster y postales que serán publicadas en dichas plataformas, previo lanzamiento del proyecto.  
