@@ -32,8 +32,6 @@ Github
 
 Hilo de Twitter: https://twitter.com/LatOlimpicas/status/1516866687747989515
 
-![Twitter](https://user-images.githubusercontent.com/56308067/164317145-126b53f1-0e56-4e57-a8d0-834970fb6131.jpg)
-
 
 Instagram
 
