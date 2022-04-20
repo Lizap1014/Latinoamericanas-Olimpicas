@@ -83,15 +83,9 @@ Para promocionar el proyecto, se utilizaría un video teaser pensado para redes 
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
-
-
-
+Test con usuarios
 
 ### Conclusiones y trabajo futuro
-
 
 * Grado de consecución del proyecto 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
