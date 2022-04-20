@@ -28,9 +28,17 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 Github:
+
+
 Hilo de Twitter:
+
+
 Instagram:
+
+
 Genially:
+
+
 Tableau public:
 
 --- 
@@ -45,10 +53,10 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   
 
--	Referencia de quiz (aunque las preguntas y el diseño será distinto): Trivial: ¿Cuánto sabes sobre los Juegos Olímpicos?
--	Las mujeres latinoamericanas alcanzaron su récord de medallas olímpicas en Tokio.
--	7 deportistas latinoamericanas que son número uno del mundo
--	Sitio web de los Juegos Olímpicos
+-	Referencia de quiz (aunque las preguntas y el diseño será distinto): Trivial: [¿Cuánto sabes sobre los Juegos Olímpicos?](https://www.antena3.com/noticias/deportes/juegos-olimpicos/trivial-cuanto-sabes-juegos-olimpicos_2021072060f684d304153e0001b342d5.html)
+-	[Las mujeres latinoamericanas alcanzaron su récord de medallas olímpicas en Tokio](https://www.antena3.com/noticias/deportes/juegos-olimpicos/trivial-cuanto-sabes-juegos-olimpicos_2021072060f684d304153e0001b342d5.html) 
+-	[7 deportistas latinoamericanas que son número uno del mundo](https://www.bbc.com/mundo/deportes-38069418)
+-	[Sitio web de los Juegos Olímpicos](https://olympics.com/es/olympic-games)
 
 **Necesidad/oportunidad** 
 
@@ -87,12 +95,16 @@ Test con usuarios
 
 ### Conclusiones y trabajo futuro
 
-Conclusiones y trabajo futuro
-
 
 Grado de consecución del proyecto: En cada celebración de los Juegos Olímpicos las mujeres latinoamericanas destacan y hacen historia. Si bien el juego y los gráficos de Tableau Public se mantendrán igual por los próximos 2 años, se actualizarán a medida que avancen los JJOO de París, 2024. Las redes sociales si se mantendrán actualizadas con imágenes, videos, gráficos y curiosidades.
+
+
 Problemas identificados: El principal problema es que en un primer momento se utiliza la plantilla predeterminada de Genially, que si bien tiene muchas posibilidades, limita en otros sentidos (diseño y funcionalidad). Además, las imágenes y videos tienen que ser de libre uso, por lo que restringe un poco el banco de archivos a utilizar. 
+
+
 Propuestas de mejora: Se propone mejoras desde el punto de vista del diseño del juego. 
+
+
 Posible interés del proyecto: Organizaciones regionales que se dedican al estudio de la inclusión femenina en diversos escenarios. 
 
 
@@ -108,12 +120,6 @@ Posible interés del proyecto: Organizaciones regionales que se dedican al estud
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
 * (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
-
 
 
 
