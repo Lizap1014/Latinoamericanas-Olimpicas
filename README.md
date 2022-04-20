@@ -27,7 +27,7 @@ Univesidad de Granada
 
 **Medios** (donde se tiene presencia): 
 
-Github
+Github: https://github.com/Lizap1014/Latinoamericanas-Olimpicas/blob/master/README.md
 
 
 Hilo de Twitter: https://twitter.com/LatOlimpicas/status/1516866687747989515
