@@ -36,7 +36,7 @@ Hilo de Twitter:
 Instagram:
 
 
-Genially:
+Genially: https://view.genial.ly/62602ef14943b200115ca006/interactive-content-juego-de-mesa-olimpiadas
 
 
 Tableau public:
