@@ -68,12 +68,12 @@ En este sentido, las mujeres han enfrentado muchos obstáculos como entrenar en 
 **Personas/Usuarios**  Personas de habla hispana, principalmente naturales de países latinoamericanos, de 18-60 años. Está pensado para dos tipos de usuarios: en primer lugar, los que solo buscan entretenimiento y conocimiento básico y en segundo, para los que desean profundizar. 
 
 
-**Estilo de narración**  El viaje del usuario comenzará por Twitter, en donde se presenta un hilo sobre el recorrido de las mujeres latinoamericanas en los Juegos Olímpicos de verano según etapas prestablecidas. Estará compuesta por 5 o 6 tweets. En el último se publicará el enlace del perfil en Instagram. En esta otra red social, se publicarán preguntas asociadas a curiosidades sobre la participación latinoamericana en el evento multideportivo. Allí se publicará el enlace al videojuego en Genially, donde se le dará respuesta a estas y otras preguntas. Por último, cuando el usuario llegue a la meta podrá disfrutar de otras visualizaciones publicadas en Tableau. 
+**Estilo de narración**  El viaje del usuario comenzará por Twitter, en donde se presenta un hilo sobre el recorrido de las mujeres latinoamericanas en los Juegos Olímpicos de verano según etapas prestablecidas. Estará compuesta por 5 o 6 tweets. En el último se publicará el enlace del perfil en Instagram. En esta otra red social, se publicarán preguntas asociadas a curiosidades sobre la participación latinoamericana en el evento multideportivo. Allí se publicará el enlace al videojuego en Genially, donde se le dará respuesta a estas y otras preguntas. Por último, cuando el usuario llegue a la meta podrá disfrutar de otras visualizaciones publicadas en Flourish. 
 
 
 ### Etapa 2: Prototipar / productos 
 
-Imagen visual (Portada / Diseño de Interfaz) y herramienta usada: Se ha utilizado Adobe Illustrator para el diseño del logotipo y banner. La tipografía elegida ha sido Roboto. Para el videojuego se ha utilizado y adaptado una plantilla de Genially. En Tableau Public se han diseñado los gráficos que conforman el Storytelling final. 
+Imagen visual (Portada / Diseño de Interfaz) y herramienta usada: Se ha utilizado Adobe Illustrator para el diseño del logotipo y banner. La tipografía elegida ha sido Roboto. Para el videojuego se ha utilizado y adaptado una plantilla de Genially. En Flourish se han diseñado los gráficos que conforman el Storytelling final. 
 Código de colores: 
 
 Rojo: #FF0606
