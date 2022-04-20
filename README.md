@@ -95,9 +95,16 @@ Redes sociales:
 Se creará un perfil en Twitter e Instagram para el proyecto, cuya foto de perfil será el logotipo inicial. Además se utilizarán los hashtags planteados.
 
 
-Captura de pantalla de Hilo de Twitter:
+**Captura de pantalla de Hilo de Twitter**
 
 ![Twitter](https://user-images.githubusercontent.com/56308067/164317514-6f5601d3-7783-4a07-8e1e-69df357ddb0d.jpg)
+
+**Ejemplo de publicación en Instagram**
+![Curiosidad del día](https://user-images.githubusercontent.com/56308067/164319106-90ac4e47-0b58-4765-84a6-0120ea736ff5.png)
+
+**Captura de pantalla de Quiz en Genially**
+![Imagen del prototipo](https://user-images.githubusercontent.com/56308067/164319180-b231d874-1c51-49e6-b340-e4fe860b13b9.jpg)
+![Ejemplo 1](https://user-images.githubusercontent.com/56308067/164319182-f2ab110c-84bf-45b6-abf5-041ba74f3e7c.jpg)
 
 
 Publicidad:
