@@ -38,10 +38,6 @@ Instagram
 
 Genially: https://view.genial.ly/62603d554943b200115ce279/interactive-content-quiz-juegos-olimpicos
 
-![Ejemplo 1](https://user-images.githubusercontent.com/56308067/164290742-13188d95-69a9-4d8e-a7ea-0ef070430b11.jpg)
-![Imagen del prototipo](https://user-images.githubusercontent.com/56308067/164290746-67b3cd2a-ac26-42b6-8123-f64498b6c2c8.jpg)
-
-
 
 Tableau public
 
