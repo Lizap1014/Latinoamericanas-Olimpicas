@@ -87,20 +87,13 @@ Test con usuarios
 
 ### Conclusiones y trabajo futuro
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+Conclusiones y trabajo futuro
 
 
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
+Grado de consecución del proyecto: En cada celebración de los Juegos Olímpicos las mujeres latinoamericanas destacan y hacen historia. Si bien el juego y los gráficos de Tableau Public se mantendrán igual por los próximos 2 años, se actualizarán a medida que avancen los JJOO de París, 2024. Las redes sociales si se mantendrán actualizadas con imágenes, videos, gráficos y curiosidades.
+Problemas identificados: El principal problema es que en un primer momento se utiliza la plantilla predeterminada de Genially, que si bien tiene muchas posibilidades, limita en otros sentidos (diseño y funcionalidad). Además, las imágenes y videos tienen que ser de libre uso, por lo que restringe un poco el banco de archivos a utilizar. 
+Propuestas de mejora: Se propone mejoras desde el punto de vista del diseño del juego. 
+Posible interés del proyecto: Organizaciones regionales que se dedican al estudio de la inclusión femenina en diversos escenarios. 
 
 
 
