@@ -27,19 +27,22 @@ Univesidad de Granada
 
 **Medios** (donde se tiene presencia): 
 
-Github:
+Github
 
 
-Hilo de Twitter:
+Hilo de Twitter
 
 
-Instagram:
+Instagram
 
 
 Genially: https://view.genial.ly/62602ef14943b200115ca006/interactive-content-juego-de-mesa-olimpiadas
 
 
-Tableau public:
+![Imagen del prototipo](https://user-images.githubusercontent.com/56308067/164283731-fab800a4-a252-4103-8512-69cfd2ff5df0.jpg)
+
+
+Tableau public
 
 --- 
 
